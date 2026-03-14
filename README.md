@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Phillip-Juan 👋
 
-<!--
-**Poolchaos/Poolchaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Frontend Engineer & Full-Stack Developer** - 13+ years building enterprise web applications.
 
-Here are some ideas to get you started:
+🔧 **What I do:**
+- Frontend architecture (TypeScript, React, Next.js)
+- Real-time communication systems (WebRTC, WebSockets, JSSIP)
+- AI-integrated full-stack products (OpenAI, Claude, Gemini)
+- Self-hosted, privacy-first application design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 **Previously:** 10+ years as Frontend Specialist at Zailab, building their cloud omnichannel contact centre platform.
+
+📫 **Available for:** Part-time remote contracts (30 hrs/week)
