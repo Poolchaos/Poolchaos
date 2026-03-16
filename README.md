@@ -10,4 +10,4 @@
 
 🏢 **Previously:** 10+ years as Frontend Specialist at Zailab, building their cloud omnichannel contact centre platform.
 
-📫 **Available for:** Part-time remote contracts (30 hrs/week)
+📫 **Available for:** Part-time remote contracts (20 hrs/week)
