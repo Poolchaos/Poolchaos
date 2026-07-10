@@ -1,13 +1,8 @@
-# Hey, I'm Phillip-Juan 👋
+I'm a full-stack engineer with 13+ years building enterprise web applications, including a decade on Zailab's cloud contact-centre platform.
 
-**Senior Frontend Engineer & Full-Stack Developer** - 13+ years building enterprise web applications.
+After hours I build my own products - currently POPIAdesk, software that helps SA small businesses handle POPIA compliance (assessments, required documents, breach procedures) without paying consultant rates. Free website scan at popiadesk.co.za.
 
-🔧 **What I do:**
-- Frontend architecture (TypeScript, React, Next.js)
-- Real-time communication systems (WebRTC, WebSockets, JSSIP)
-- AI-integrated full-stack products (OpenAI, Claude, Gemini)
-- Self-hosted, privacy-first application design
+I write here about POPIA in plain language and what small businesses actually need to stay compliant - no legalese, no scare tactics.
 
-🏢 **Previously:** 10+ years as Frontend Specialist at Zailab, building their cloud omnichannel contact centre platform.
+Also building: TallyGuard - a free, deterministic scanner that catches the security mistakes AI coding tools leave behind.
 
-📫 **Available for:** Part-time remote contracts (20 hrs/week)
